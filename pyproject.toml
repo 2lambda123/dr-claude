@@ -9,7 +9,7 @@ packages = [{include = "dr_claude"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-langchain = "^0.1.0"
+langchain = "^0.2.5"
 pydantic = ">=1,<2"
 faiss-cpu = "^1.7.4"
 notebook = "^7.0.7"
